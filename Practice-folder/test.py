@@ -6,3 +6,5 @@ y = np.sin(x)
 f = plt.plot(x,y)
 
 plt.show()
+
+echo("Shut up")
