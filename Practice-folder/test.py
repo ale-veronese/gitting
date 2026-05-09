@@ -7,4 +7,4 @@ f = plt.plot(x,y)
 
 plt.show()
 
-echo("Shut up")
+print("Shut up")
